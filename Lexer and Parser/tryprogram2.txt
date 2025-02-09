@@ -1,0 +1,6 @@
+void try () {
+float number;
+float sum;
+float temp;
+sum = temp – number;
+}
