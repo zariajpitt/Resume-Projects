@@ -1,0 +1,1 @@
+A repository for projects I have in progress or have completed. One is an ML model (jyptff.ipynb) using tensorflow using federated learning and differential privacy and the other is for a lexical analyzer that reads a text file and parses it.
