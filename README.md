@@ -1,5 +1,6 @@
 A repository for ML project I have in progress. It is an ML model (jyptff.ipynb) using tensorflow using federated learning and differential privacy.
 Explanation of code
+
 Federated Learning and Differential Privacy for COVID-19 X-ray Classification
 1. Problem Statement:
 Training deep learning models for medical image classification, like detecting COVID-19 from X-ray images, requires large datasets. Although collecting this data centrally raises privacy concerns. Federated Learning  lets models train across multiple devices without sharing raw data, while Differential Privacy adds noise and clipping to protect patient information. This project looks at how well FL and FL+DP perform on a COVID-19 X-ray dataset.
