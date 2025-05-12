@@ -1,6 +1,0 @@
-void try (float temp){
-float data;
-float number;
-float sum;
-sum = temp + data - number;
-}
